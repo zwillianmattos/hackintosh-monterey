@@ -1,5 +1,5 @@
 cd com.apple.recovery.boot
 
-echo "# Big Sur (11)"
+echo "# Monterey (12)"
 
-python macrecovery.py -b Mac-42FD25EABCABB274 -m 00000000000000000 download
+python3 macrecovery.py -b Mac-FFE5EF870D7BA81A -m 00000000000000000 download
