@@ -3,6 +3,13 @@
 ## Hardware
 ![Setup Info](./setup.png)
 
+```
+Intel i5 9400f
+RX580 8gb
+48GB RAM
+SSD M2 512gb
+```
+
 ## Install
 
 1. Format USB to FAT32;
